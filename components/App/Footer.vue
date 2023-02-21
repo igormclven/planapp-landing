@@ -13,14 +13,7 @@
         {{ $t("app_name") }}
       </NuxtLink>
       <div class="text-sm text-gray-600">
-        <span class="font-medium text-gray-800">{{ $t("app_name") }}</span>
-        by
-        <a
-          href="https://github.com/gravitano"
-          class="font-medium hover:underline text-gray-800"
-        >
-          Warsono
-        </a>. All rights reserved.
+        PLANAPP. Todos los derechos reservados.
       </div>
     </div>
   </footer>
