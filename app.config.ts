@@ -1,8 +1,8 @@
 import { ArrowPathIcon, CloudArrowUpIcon, FingerPrintIcon, LockClosedIcon } from '@heroicons/vue/24/outline'
 
 export default defineAppConfig({
-  title: 'Nuxt Tailwind Kit',
-  description: 'Beautifully designed, fully featured, and ready to go starter kit for Nuxt 3 and Tailwind CSS.',
+  title: 'PlanApp',
+  description: 'Cosas geniales se vienen pronto!',
   features: [
     {
       name: 'Nuxt 3',
@@ -37,8 +37,8 @@ export default defineAppConfig({
   },
   announcement: {
     enabled: true,
-    message: 'Nuxt Tailwind Kit is now available for Nuxt 3!',
-    url: '/getting-started/installation'
+    message: 'Ya tenemos un dominio!',
+    url: '/'
   },
   cta: {
     title: 'Boost your productivity',
