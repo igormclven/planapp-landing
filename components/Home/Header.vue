@@ -7,24 +7,7 @@ defineProps<{
 }>()
 
 const navigation: NavigationItem[] = [
-  { title: 'Home', to: '/' },
-  { title: 'Store', to: '/store' },
-  { title: 'Blog', to: '/blog' },
-  { title: 'Components', to: '/components/autocomplete' },
-  {
-    title: 'Examples',
-    to: '/examples',
-    children: [
-      {
-        title: 'Forms',
-        to: '/forms',
-      },
-      {
-        title: 'Swiper',
-        to: '/swiper',
-      },
-    ],
-  },
+  { title: 'Inicio', to: '/' }
 ]
 </script>
 
